@@ -1,15 +1,7 @@
 # GenieLogiciel
 
-## [TD3 : PDF Presentation](https://github.com/rgv26/GenieLogiciel/blob/master/td3/presentation_v1.pdf)
+## [TD3](https://github.com/rgv26/GenieLogiciel/blob/master/td3/)
 
-### Mockup
+![pdf](https://github.com/rgv26/GenieLogiciel/blob/master/td3/Enoncé_du_TD.pdf)
 
-![img1](https://github.com/rgv26/GenieLogiciel/blob/master/td3/mockup001.jpg)
 
-![img2](https://github.com/rgv26/GenieLogiciel/blob/master/td3/mockup002.jpg)
-
-![img3](https://github.com/rgv26/GenieLogiciel/blob/master/td3/mockup003.jpg)
-
-### Schema De Navigation
-
-![schema](https://github.com/rgv26/GenieLogiciel/blob/master/td3/schema.PNG)
