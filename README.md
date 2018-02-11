@@ -9,3 +9,7 @@
 ![img2](https://github.com/rgv26/GenieLogiciel/blob/master/td3/mockup002.jpg)
 
 ![img3](https://github.com/rgv26/GenieLogiciel/blob/master/td3/mockup003.jpg)
+
+### Schema De Navigation
+
+![schema](https://github.com/rgv26/GenieLogiciel/blob/master/td3/schema.png)
