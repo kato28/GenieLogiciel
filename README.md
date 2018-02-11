@@ -12,4 +12,4 @@
 
 ### Schema De Navigation
 
-![schema](https://github.com/rgv26/GenieLogiciel/blob/master/td3/schema.png)
+![schema](https://github.com/rgv26/GenieLogiciel/blob/master/td3/schema.PNG)
